@@ -9,7 +9,7 @@ public class MathOperations
 		return(base+height)/2;
 		
 	}
-	public double areaSquare(souble side)
+	public double areaSquare(double side)
 	{return side+side;
 
 	}
